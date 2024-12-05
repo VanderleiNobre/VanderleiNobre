@@ -53,11 +53,11 @@
   <img src="https://profile-counter.glitch.me/VanderleiNobre/count.svg?"  />
 </div>
 
-###
+<!--###
 
 <img src="https://raw.githubusercontent.com/VanderleiNobre/VanderleiNobre/output/snake.svg" alt="Snake animation" />
 
-###
+### -->
 
 <!--
 **VanderleiNobre/VanderleiNobre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
